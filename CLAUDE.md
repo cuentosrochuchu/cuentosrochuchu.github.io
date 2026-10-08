@@ -31,6 +31,7 @@ El plan completo está en `PLAN_WEB_ROCHUCHU.md` (no se publica). Lo pendiente, 
 ## Carpetas
 - `index.html` portada española · `libros/` 10 páginas de libros en español · `en/` portada inglesa + 4 libros en inglés
 - `aviso-legal.html`, `404.html`, `sitemap.xml`, `robots.txt`, `.nojekyll`
+- `google8ff268addb5f9b82.html`: verificación de Google Search Console. No borrarlo nunca.
 - `img/portadas/ID-480.webp` portadas de la web · `img/compartir/ID.jpg` imagen para compartir de cada libro · `img/compartir.jpg` (1200×630) de las portadas · `img/logo.png`, `img/icono-32.png`, `img/icono-180.png`
 - No se publican (`.gitignore`): `portadas/` (originales, no tocar), `PLAN_WEB_ROCHUCHU.md`, `PENDIENTE.md`, `boceto-*.jpg`, `.claude/`
 
